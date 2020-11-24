@@ -1,0 +1,56 @@
+.flex-container2 {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+  }
+  .flex-part2 {
+    display: flex;
+    flex-direction: row;
+  }
+  #c1{
+    text-align: right;
+    
+  }
+  #c2{
+   background: rgba(218, 223, 225, 1);
+  }
+  .flex-container {
+    display: flex;
+    flex-direction:column;
+    width:80%;
+    margin: auto;
+    background-color: white;
+  }
+  .flex-container1 {
+    display: flex;
+    flex-direction:column;
+    
+  }
+  .flex-part1 {
+    display: flex;
+    flex-direction:column;
+    
+  }
+  #emp {
+    height: 30px;
+    width: 600px;
+    background-color: black;
+  }
+  #pro_skill_rec {
+    height: 20px;
+    width: 200px;
+    background-color:rgba(218, 223, 225, 1);
+  }
+  hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  width: 100%;
+} 
+#dot {
+    border-top: 1px dotted rgba(218, 223, 225, 1);
+  }
